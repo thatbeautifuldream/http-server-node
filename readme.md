@@ -2,6 +2,9 @@
 
 This is a simple HTTP server written in Node. It's not meant to be used for production, but rather as a learning tool to understand how HTTP servers work.
 
+![Code_Jvz69AGNeM](https://user-images.githubusercontent.com/28717686/234941246-0bd3d8df-6669-4326-a072-140a3e53516b.gif)
+
+
 - Here I have used the core HTTP module to create a simple HTTP server.
 - The server listens on port 5000 for connections.
 - The server responds with a 200 status code and html file "Hello World" for "/" request.
